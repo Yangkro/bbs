@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/xh/bbs/dao/BbsDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/xh/bbs/dao/BbsDaoInf.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/xh/bbs/dao/UserDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/xh/bbs/dao/UserDaoInf.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/xh/bbs/entity/ForumEntity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/xh/bbs/entity/ReplyEntity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/xh/bbs/entity/UserEntity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/xh/bbs/filter/EncodingFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/xh/bbs/service/BbsServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/xh/bbs/service/BbsServiceInf.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/xh/bbs/service/UserServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/xh/bbs/service/UserServiceInf.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/xh/bbs/servlet/ForumListServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/xh/bbs/servlet/LoginServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/xh/bbs/servlet/RegisterServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/xh/bbs/servlet/ReleaseServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/xh/bbs/servlet/ReplyListServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/xh/bbs/servlet/ReplyServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/xh/bbs/utils/DBUtil.java" charset="GBK" />
+  </component>
+</project>
